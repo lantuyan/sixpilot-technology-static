@@ -1,0 +1,42 @@
+[
+  {
+    "name": "POSTYLE",
+    "slug": "postyle",
+    "description": "Transform your photos with AI-powered background removal and professional pose templates. Perfect your shots with real-time overlay guidance.",
+    "createdAt": "2025-12-22T16:48:08.316Z",
+    "updatedAt": "2025-12-22T16:53:14.444Z"
+  },
+  {
+    "name": "Horizontal Cam",
+    "slug": "horizontal-cam",
+    "description": "Horizon Lock Video",
+    "appStoreUrl": "https://apps.apple.com/us/app/stable-camera/id6759848416",
+    "createdAt": "2026-03-01T09:22:18.795Z"
+  },
+  {
+    "name": "World Monitor",
+    "slug": "world-monitor",
+    "description": "Real-time global intelligence dashboard with live news, markets, military tracking, infrastructure monitoring, and geopolitical data.",
+    "createdAt": "2026-03-06T03:23:28.762Z"
+  },
+  {
+    "name": "SlapPhone: Slap your iPhone",
+    "slug": "slapphone-slap-your-iphone",
+    "description": "Slap your iPhone. It screams back. That's it. That's the app.",
+    "appStoreUrl": "https://apps.apple.com/us/app/slapphone-slap-me/id6761311670",
+    "createdAt": "2026-03-29T03:22:33.734Z"
+  },
+  {
+    "name": "Truth Scanner",
+    "slug": "truth-scanner",
+    "description": "Truth Scanner is a powerful AI image detection app designed to reveal whether an image is authentic or AI-generated.",
+    "appStoreUrl": "https://apps.apple.com/us/app/truth-scanner/id6760984439",
+    "createdAt": "2026-03-29T03:24:08.005Z"
+  },
+  {
+    "name": "Brush Jjaemu",
+    "slug": "brush-jjaemu",
+    "description": "Funny app for interact with Brush Jjaemu",
+    "createdAt": "2026-04-18T04:41:59.429Z"
+  }
+]
