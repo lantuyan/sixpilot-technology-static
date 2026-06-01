@@ -38,5 +38,12 @@
     "slug": "brush-jjaemu",
     "description": "Funny app for interact with Brush Jjaemu",
     "createdAt": "2026-04-18T04:41:59.429Z"
+  },
+  {
+    "name": "Sport Wallpapers",
+    "slug": "sport-wallpapers",
+    "description": "Sports HD wallpapers",
+    "appStoreUrl": "https://apps.apple.com/us/app/sport-wallpaper-real-live/id6766153065",
+    "createdAt": "2026-06-01T14:29:29.132Z"
   }
 ]
